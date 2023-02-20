@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/watji/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/meta-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dart_programming_language",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2023-02-09T01:35:06.977423Z",
+  "generator": "pub",
+  "generatorVersion": "2.16.2"
+}
