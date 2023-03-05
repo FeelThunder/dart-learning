@@ -20,6 +20,8 @@ abstract class Juk{
   }
 } 
 
+
+// child class from abstract
 class Yaw extends Juk{
 @override
   void Joy() {
